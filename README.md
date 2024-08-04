@@ -25,5 +25,8 @@ The New York City Airbnb Open Data provides detailed information about Airbnb li
 5. **Host Analysis**:
    - Analyze the distribution of listings among hosts to understand the prevalence of multi-listing hosts.
    - Examine the impact of host attributes (e.g., response rate, reviews) on listing performance.
+  
+### Tools Used:
+
 
 This analysis provides valuable insights into the New York City Airbnb market, helping hosts optimize their listings and providing a comprehensive understanding of the factors influencing rental prices and occupancy rates.
