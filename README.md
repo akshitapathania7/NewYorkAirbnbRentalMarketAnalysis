@@ -1,9 +1,9 @@
-# NewYorkAirbnbRentalMarketAnalysis
+# New York Airbnb Rental Market Analysis
 
 **Analyze the New York City Airbnb rental market to identify factors that influence rental prices and occupancy rates, and provide insights on market trends and patterns.**
 
 ### Overview
-The New York City Airbnb Open Data provides detailed information about Airbnb listings in New York City. The dataset, `listings.csv`, includes a wide range of variables such as listing ID, neighborhood, room type, price, minimum nights, number of reviews, last review date, review scores, availability, and host details.
+The primary objective of this study is to conduct a comprehensive analysis of the New York City Airbnb rental market to identify the key factors that influence rental prices and occupancy rates. By leveraging data-driven insights, the study aims to provide actionable recommendations for hosts to optimize their listings, improve booking rates, and enhance overall market performance.
 
 ### Objectives
 1. **Descriptive Analysis**:
@@ -25,8 +25,6 @@ The New York City Airbnb Open Data provides detailed information about Airbnb li
 5. **Host Analysis**:
    - Analyze the distribution of listings among hosts to understand the prevalence of multi-listing hosts.
    - Examine the impact of host attributes (e.g., response rate, reviews) on listing performance.
-  
-### Tools Used:
 
 
 This analysis provides valuable insights into the New York City Airbnb market, helping hosts optimize their listings and providing a comprehensive understanding of the factors influencing rental prices and occupancy rates.
